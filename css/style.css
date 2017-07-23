@@ -1,0 +1,40 @@
+body{
+	background: #a19562;
+}
+ol{
+	font-size: 20px;
+	display: block;
+}
+
+p{
+	font-size: 20px;
+	font-family: oldbookman;
+	font-weight: bold;
+	text-align: center;
+	border: solid 1px lightyellow;
+	background: lightyellow;
+	border-radius: 4px;
+
+}
+
+li{
+	line-height: 30px;
+}
+
+#submit{
+	position: relative;
+    left: 357px;
+    font-size: 20px;
+}
+
+#about{
+	display: inline;
+}
+
+.form{
+	margin: 0 216px;
+}
+
+ol label{
+	display: inline-block;
+}
